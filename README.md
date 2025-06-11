@@ -23,5 +23,5 @@ A página utiliza a mesma identidade visual (cabeçalho e rodapé) da página in
 
 ## 📸 Tela do Projeto
 
-*Imagem da página final:*
+![Tela de login do projeto](img/image.png)
 
